@@ -16,7 +16,7 @@ Single Page App using JavaScript without the need for any front-end frameworks. 
 * JavaScript
 
 ## Status
-Project is: _in progress_
+Project is: _completed_
 
 ## Contact
-Created by kaletkof@gmail.com
+Created by k.qaletka@gmail.com
